@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cours sur le pixel art"
-author: max
+author: sal
 categories: [ Jekyll, tutorial]
 image: assets/images/20190402_cours_pixelart.jpg
 featured: true
@@ -33,6 +33,6 @@ Les auteurs sont Antoine Gersant pour les chapitres de 1 à 9 et Thomas Chassin 
 
 _(l'en-tête provient du_ [_cours 2_](http://www.lesforges.org/article/cours-pixel-art-logiciels?scroll_to=article)_))_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4OTIyMDA5MSwxMTIyODU2NDg1LDEwMj
-Y3OTcxMjZdfQ==
+eyJoaXN0b3J5IjpbNzU0NjY1Njc1LDExMjI4NTY0ODUsMTAyNj
+c5NzEyNl19
 -->
