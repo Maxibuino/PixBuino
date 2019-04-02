@@ -1,7 +1,7 @@
 # Site
-name: "Pixel"
-title: "Pixel Blog"
-description: "un blog sur le Pixelart"
+name: "PixBuino"
+title: "PixBuino"
+description: "Un blog sur le Pixelart"
 meta_description: "Jekyll theme for blogging."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
