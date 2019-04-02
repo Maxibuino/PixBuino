@@ -7,7 +7,7 @@ image: assets/images/20190402_cours_pixelart.jpg
 featured: true
 ---
 
-**Je ne suis donc pas l'auteur de ces cours.**
+Voilà un cours de présentation sur le pix
 
 C'est une série de 10 chapitres sur le pixel art. Programmer un jeu implique, en plus du code, quelques connaissances artistiques pour dessiner et concevoir l'environnement graphique de nos créations.
 
@@ -35,5 +35,5 @@ Les auteurs sont Antoine Gersant pour les chapitres de 1 à 9 et Thomas Chassin 
 
 _(l'en-tête provient du_ [_cours 2_](http://www.lesforges.org/article/cours-pixel-art-logiciels?scroll_to=article)_))_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDA2NjQ1NTQsMTAyNjc5NzEyNl19
+eyJoaXN0b3J5IjpbMTgyMjM4OTQ2MywxMDI2Nzk3MTI2XX0=
 -->
