@@ -5,6 +5,35 @@ categories: [ Jekyll, tutorial ]
 image: assets/images/1.jpg
 featured: true
 ---
-This is changed. As I engage in the so-called "bull sessions" around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the "brethren" think that <a href="#">education should equip</a> them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.
 
-It seems to me that education has a two-fold function to perform in the life of man and in society: the one is utility and the other is culture. Education must enable a man to become more efficient, to achieve with increasing facility the ligitimate goals of his life.
+Ce n'est pas une création mais un partage de liens que j'ai trouvés très enrichissants dans ma quête de développer des jeux sur la META.  
+**Je ne suis donc pas l'auteur de ces cours.**
+
+C'est une série de 10 chapitres sur le pixel art. Programmer un jeu implique, en plus du code, quelques connaissances artistiques pour dessiner et concevoir l'environnement graphique de nos créations.
+
+Les auteurs sont Antoine Gersant pour les chapitres de 1 à 9 et Thomas Chassin pour le 10. Ces cours ont été publiés sur le site  [lesforges.org](http://www.lesforges.org/article/ld25?scroll_to=article). ce blog est d'ailleurs une mine de savoir, dommage qu'il ne soit plus actualisé depuis 2015.
+
+[1. Préface](http://www.lesforges.org/article/cours-pixel-art-preface?scroll_to=article)
+
+[2. Les bons outils](http://www.lesforges.org/article/cours-pixel-art-logiciels?scroll_to=article)
+
+[3. Tracer des lignes](http://www.lesforges.org/article/cours-pixel-art-lignes?scroll_to=article)
+
+[4. Perspectives](http://www.lesforges.org/article/cours-pixel-art-perspective?scroll_to=article)
+
+[5. Ombre et lumière](http://www.lesforges.org/article/cours-pixel-art-shading?scroll_to=article)
+
+[6. Couleurs et palettes](http://www.lesforges.org/article/couleurs?scroll_to=article)
+
+[7. Anti-aliasing](http://www.lesforges.org/article/cours-pixel-art-anti-aliasing?scroll_to=article)
+
+[8. Textures et dithering](http://www.lesforges.org/article/cours-pixel-art-textures?scroll_to=article)
+
+[9. Un monde de tiles](http://www.lesforges.org/article/cours-pixel-art-tiles?scroll_to=article)
+
+[10. Animations](http://www.lesforges.org/article/pixel-art-chapitre-10-animation?scroll_to=article)
+
+_(l'en-tête provient du_ [_cours 2_](http://www.lesforges.org/article/cours-pixel-art-logiciels?scroll_to=article)_))_
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNjExNDEyOTI5XX0=
+-->
