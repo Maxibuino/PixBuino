@@ -7,7 +7,9 @@ image: assets/images/20190402_cours_pixelart.jpg
 featured: true
 ---
 
-Voilà un cours de présentation sur le pixel art. Entièrement en français, c'est une série de 10 chapitres. Programmer un jeu implique, en plus du code, quelques connaissances artistiques pour dessiner et concevoir l'environnement graphique de nos créations. Ces pages abordent très bien le sujet.
+Voilà des cours qui présentent le pixel art
+
+Entièrement en français, c'est une série de 10 chapitres. Programmer un jeu implique, en plus du code, quelques connaissances artistiques pour dessiner et concevoir l'environnement graphique de nos créations. Ces pages abordent très bien le sujet.
 
 Les auteurs sont Antoine Gersant pour les chapitres de 1 à 9 et Thomas Chassin pour le 10. Ces cours ont été publiés sur le site  [lesforges.org](http://www.lesforges.org/article/ld25?scroll_to=article). ce blog est d'ailleurs une mine de savoir, dommage qu'il ne soit plus actualisé depuis 2015.
 
@@ -33,6 +35,6 @@ Les auteurs sont Antoine Gersant pour les chapitres de 1 à 9 et Thomas Chassin 
 
 _(l'en-tête provient du_ [_cours 2_](http://www.lesforges.org/article/cours-pixel-art-logiciels?scroll_to=article)_))_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU0NjY1Njc1LDExMjI4NTY0ODUsMTAyNj
-c5NzEyNl19
+eyJoaXN0b3J5IjpbLTIwNjI5MTY1ODIsMTEyMjg1NjQ4NSwxMD
+I2Nzk3MTI2XX0=
 -->
