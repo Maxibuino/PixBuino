@@ -1,12 +1,11 @@
 ---
 layout: post
-title:  "We all wait for summer"
+title:  "Cours sur le pixel art"
 categories: [ Jekyll, tutorial ]
 image: assets/images/1.jpg
 featured: true
 ---
 
-Ce n'est pas une création mais un partage de liens que j'ai trouvés très enrichissants dans ma quête de développer des jeux sur la META.  
 **Je ne suis donc pas l'auteur de ces cours.**
 
 C'est une série de 10 chapitres sur le pixel art. Programmer un jeu implique, en plus du code, quelques connaissances artistiques pour dessiner et concevoir l'environnement graphique de nos créations.
@@ -35,5 +34,5 @@ Les auteurs sont Antoine Gersant pour les chapitres de 1 à 9 et Thomas Chassin 
 
 _(l'en-tête provient du_ [_cours 2_](http://www.lesforges.org/article/cours-pixel-art-logiciels?scroll_to=article)_))_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjExNDEyOTI5XX0=
+eyJoaXN0b3J5IjpbMzExMDc3NDgzXX0=
 -->
