@@ -4,7 +4,6 @@ title:  "Les Palettes de couleurs"
 author: max
 categories: [ Jekyll, lien]
 image: assets/images/20190402-palette.png
-featured: true
 ---
 On peut vite se retrouver perdu quand on est en pleine création. Chercher l'harmonie des couleurs avec les formes, tout ça peut devenir vite compliqué pour un débutant.
 
@@ -20,6 +19,7 @@ Zughy 32
 Endesga 32
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NzU3MzM5NywxMTA2OTc5MDc5LDkwMz
-U1OTg2MiwtMzk0NDE0NjUyLDE5OTEwMDU1MTZdfQ==
+eyJoaXN0b3J5IjpbLTE1MTg3ODY4MjUsLTg2NzU3MzM5NywxMT
+A2OTc5MDc5LDkwMzU1OTg2MiwtMzk0NDE0NjUyLDE5OTEwMDU1
+MTZdfQ==
 -->
