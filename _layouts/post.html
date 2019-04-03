@@ -51,7 +51,8 @@ post_class: post-template
 			</div>
 
             <!-- Post Date -->
-            <p>
+            <!--
+	    <p>
             <small>
                 <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>           
                 {% if page.last_modified_at %}
@@ -59,6 +60,7 @@ post_class: post-template
                 {% endif %}
                 </small>
             </p>
+	    -->
             
 			
             
@@ -79,7 +81,8 @@ post_class: post-template
             
             
              <!-- Author Box -->
-                {% if page.author %}				
+                <!--
+		{% if page.author %}				
 				<div class="row post-top-meta">
 					<div class="col-md-10">
 						<a target="_blank" class="link-dark" href="{{ author.web }}">{{ author.display_name }}</a><a target="_blank" href="{{ author.twitter }}" class="btn follow">Follow</a>
@@ -89,6 +92,7 @@ post_class: post-template
                 {% endif %}
 
 		</div>
+		-->
 		<!-- End Post -->
         
         
