@@ -8,10 +8,7 @@ image: assets/images/3.jpg
 
 <a class="nav-link highlight" target="blank" href="https://itch.io/">itch.io</a>
 
-
-[https://opengameart.org/art-search-advanced?keys=&field_art_type_tid%5B%5D=9&sort_by=count&sort_order=DESC](https://opengameart.org/art-search-advanced?keys=&field_art_type_tid%5B%5D=9&sort_by=count&sort_order=DESC)
-
-
+<a class="nav-link highlight" target="blank" https://opengameart.org/art-search-advanced?keys=&field_art_type_tid%5B%5D=9&sort_by=count&sort_order=DESC">Open Game Art</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3OTMyNDU1OCwyMTQ1NDYzNTMxXX0=
+eyJoaXN0b3J5IjpbMTMyNTQzMjg1NCwyMTQ1NDYzNTMxXX0=
 -->
