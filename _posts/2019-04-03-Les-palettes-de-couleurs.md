@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Powerful things you can do with the Markdown editor"
-author: sal
-categories: [ Jekyll, tutorial ]
+title:  "Les palettes de couleurs"
+author: max
+categories: [ Jekyll, ressources ]
 image: assets/images/4.jpg
 ---
 There are lots of powerful things you can do with the Markdown editor
@@ -48,5 +48,5 @@ Perhaps the best part of Markdown is that you're never limited to just Markdown.
 
 <p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjIzODg1MTNdfQ==
+eyJoaXN0b3J5IjpbLTE0NjM1NzY1MTRdfQ==
 -->
