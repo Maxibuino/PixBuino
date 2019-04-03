@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-Je suis devenu fan de la Gamebuino META depuis son lancement sur Kickstarter. Une vraie console de jeu où le Pixelart prend tout sons sens. À force de chercher sur le net des outils et des infos sur le Pixeart, j'ai fini par publier ce blog pour partager toutes les infos que j'ai amassées.
+Je suis devenu fan de la Gamebuino META depuis son lancement sur Kickstarter. Une vraie console de jeu où le Pixelart prend tout son sens. À force de chercher sur le net des outils et des infos sur cet aspect artistique de la création de jeux vidéos, j'ai fini par publier ce blog pour partager toutes les infos que j'ai trouvées.
 
 **License & Download**
 
