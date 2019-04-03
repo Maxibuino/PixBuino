@@ -3,7 +3,7 @@ layout: post
 title:  "Histoire du Pixel art"
 author: max
 categories: [ Jekyll, video ]
-image: assets/images/6.jpg
+image: assets/images/space-invaders.jpg
 ---
 Tout histoire à un commencement et ces deux vidéo nous en apprennent plus sur le fonctionnement des graphismes "à l'ancienne"
 
@@ -14,6 +14,6 @@ Tout histoire à un commencement et ces deux vidéo nous en apprennent plus sur 
 <p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/_rsycfDliZU" frameborder="0" allowfullscreen></iframe></p>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NDM0MDU2MSwtNDYxMjE0Nzk1LDQzNT
-M1NzE0M119
+eyJoaXN0b3J5IjpbLTg2NTk0MDMxMiwxOTQ0MzQwNTYxLC00Nj
+EyMTQ3OTUsNDM1MzU3MTQzXX0=
 -->
