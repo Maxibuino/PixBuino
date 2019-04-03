@@ -6,8 +6,8 @@ categories: [ Jekyll, lien]
 image: assets/images/20190402-palette.png
 featured: true
 ---
-
+On peut vite se retrouver perdu quand on est en pleine création 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MTAwNTUxNl19
+eyJoaXN0b3J5IjpbLTM5NDQxNDY1MiwxOTkxMDA1NTE2XX0=
 -->
