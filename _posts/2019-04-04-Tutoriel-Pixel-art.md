@@ -11,10 +11,10 @@ Et voici une petite liste de tutoriel à lire et relire sans modération
 [http://androidarts.com/pixtut/pixelart.htm](http://androidarts.com/pixtut/pixelart.htm)
 
 ### Des explications pour donner du volume à vos fond
-<a class="nav-link highlight" target="blank" href="https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/resource-pack-discussion/1254358-pixel-art-texturing-explained">Go Gamebuino !</a>
+<a class="nav-link highlight" target="blank" href="https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/resource-pack-discussion/1254358-pixel-art-texturing-explained">Explications pour correctement texturer votre background</a>
 [https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/resource-pack-discussion/1254358-pixel-art-texturing-explained](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/resource-pack-discussion/1254358-pixel-art-texturing-explained)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA1Nzc2ODgwXX0=
+eyJoaXN0b3J5IjpbLTE0MzgwNjIzXX0=
 -->
