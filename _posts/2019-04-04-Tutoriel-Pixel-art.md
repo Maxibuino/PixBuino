@@ -10,7 +10,10 @@ Et voici une petite liste de tutoriel à lire et relire sans modération
 ### Quelques conseils sur les erreurs que les débutants font souvent
 [http://androidarts.com/pixtut/pixelart.htm](http://androidarts.com/pixtut/pixelart.htm)
 
-### Des explications pour donner du volume à vos 
+### Des explications pour donner du volume à vos fond
+[https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/resource-pack-discussion/1254358-pixel-art-texturing-explained](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/resource-pack-discussion/1254358-pixel-art-texturing-explained)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjkyMzE3MDJdfQ==
+eyJoaXN0b3J5IjpbLTE5NTAzMzAzMDJdfQ==
 -->
