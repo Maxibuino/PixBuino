@@ -6,11 +6,9 @@ categories: [ Jekyll, ressources ]
 image: assets/images/3.jpg
 ---
 
-<a class="nav-link highlight" target="blank" href="[https://itch.io/](https://itch.io/)">itch.io</a>
+<a class="nav-link highlight" target="blank" href="https://itch.io/">itch.io</a>
 
-
-
-
+<a class="nav-link highlight" target="blank" href="https://opengameart.org/art-search-advanced?keys=&field_art_type_tid%5B%5D=9&sort_by=count&sort_order=DESC">Open Game Art</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NzAzMzkxOCwyMTQ1NDYzNTMxXX0=
+eyJoaXN0b3J5IjpbMTc2NjYwNDM2OCwyMTQ1NDYzNTMxXX0=
 -->
