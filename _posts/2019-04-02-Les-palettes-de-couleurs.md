@@ -16,8 +16,9 @@ Mes préférées :
 DawnBringer 8
 DawnBringer 16
 DawnBringer 32
+Zughy 32
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzU1NDcwNTksMTEwNjk3OTA3OSw5MD
-M1NTk4NjIsLTM5NDQxNDY1MiwxOTkxMDA1NTE2XX0=
+eyJoaXN0b3J5IjpbMjExNDkwOTcyMSwxMTA2OTc5MDc5LDkwMz
+U1OTg2MiwtMzk0NDE0NjUyLDE5OTEwMDU1MTZdfQ==
 -->
