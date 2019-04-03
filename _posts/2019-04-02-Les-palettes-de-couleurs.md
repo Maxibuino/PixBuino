@@ -10,9 +10,10 @@ On peut vite se retrouver perdu quand on est en pleine création. Chercher l'har
 
 Se plier à une palette donnée peut nous aider.
 
-Avant de chercher éperdument des palettes sur le web
+Avant de chercher éperdument des palettes sur le web, arrêtez tout de suite ! Vous aurez un large choix de palettes sur lospec
+[https://lospec.com/palette-list](https://lospec.com/palette-list)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAzNTU5ODYyLC0zOTQ0MTQ2NTIsMTk5MT
-AwNTUxNl19
+eyJoaXN0b3J5IjpbLTE4NjAyODk5NDksOTAzNTU5ODYyLC0zOT
+Q0MTQ2NTIsMTk5MTAwNTUxNl19
 -->
