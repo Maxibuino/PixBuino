@@ -13,13 +13,14 @@ Entièrement en français, c'est une série de 10 chapitres. Programmer un jeu i
 
 Les auteurs sont Antoine Gersant pour les chapitres de 1 à 9 et Thomas Chassin pour le 10. Ces cours ont été publiés sur le site  [lesforges.org](http://www.lesforges.org/article/ld25?scroll_to=article). ce blog est d'ailleurs une mine de savoir, dommage qu'il ne soit plus actualisé depuis 2015.
 
-<a class="nav-link highlight" target="blank" href="http://www.lesforges.org/article/cours-pixel-art-preface?scroll_to=article">1. Préface</a>
 
-<a class="nav-link highlight" target="blank" href="http://www.lesforges.org/article/cours-pixel-art-logiciels?scroll_to=article">2. Les bons outils</a>
+[1. Préface](http://www.lesforges.org/article/cours-pixel-art-preface?scroll_to=article)
 
-<a class="nav-link highlight" target="blank" href="http://www.lesforges.org/article/cours-pixel-art-lignes?scroll_to=article">3. Tracer des lignes</a>
+[2. Les bons outils](http://www.lesforges.org/article/cours-pixel-art-logiciels?scroll_to=article)
 
-<a class="nav-link highlight" target="blank" href="http://www.lesforges.org/article/cours-pixel-art-perspective?scroll_to=article">4. Perspectives</a>
+[3. Tracer des lignes](http://www.lesforges.org/article/cours-pixel-art-lignes?scroll_to=article)
+
+[4. Perspectives](http://www.lesforges.org/article/cours-pixel-art-perspective?scroll_to=article)
 
 [5. Ombre et lumière](http://www.lesforges.org/article/cours-pixel-art-shading?scroll_to=article)
 
@@ -35,6 +36,6 @@ Les auteurs sont Antoine Gersant pour les chapitres de 1 à 9 et Thomas Chassin 
 
 _(l'en-tête provient du_ [_cours 2_](http://www.lesforges.org/article/cours-pixel-art-logiciels?scroll_to=article)_))_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMjcyODYzOCwtODAzNjY5MDM2LC0yMD
-YyOTE2NTgyLDExMjI4NTY0ODUsMTAyNjc5NzEyNl19
+eyJoaXN0b3J5IjpbODQ4MzIyMjQyLC04MDM2NjkwMzYsLTIwNj
+I5MTY1ODIsMTEyMjg1NjQ4NSwxMDI2Nzk3MTI2XX0=
 -->
