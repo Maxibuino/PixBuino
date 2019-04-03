@@ -17,8 +17,9 @@ DawnBringer 8
 DawnBringer 16
 DawnBringer 32
 Zughy 32
+Endesga 32
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNDkwOTcyMSwxMTA2OTc5MDc5LDkwMz
+eyJoaXN0b3J5IjpbLTg2NzU3MzM5NywxMTA2OTc5MDc5LDkwMz
 U1OTg2MiwtMzk0NDE0NjUyLDE5OTEwMDU1MTZdfQ==
 -->
