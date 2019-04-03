@@ -6,10 +6,11 @@ categories: [ Jekyll, ressources ]
 image: assets/images/3.jpg
 ---
 
+<a class="nav-link highlight" target="blank" href="[https://itch.io/](https://itch.io/)">itch.io</a>
 
-Itch.io
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MDY0OTU4MywyMTQ1NDYzNTMxXX0=
+eyJoaXN0b3J5IjpbMTE2NzAzMzkxOCwyMTQ1NDYzNTMxXX0=
 -->
