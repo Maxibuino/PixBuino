@@ -6,17 +6,18 @@ categories: [ logiciel ]
 image: assets/images/20190404-piskelapp.jpg
 featured: true
 ---
-Vous trouverez pléthore de logiciels dédié à la création. Je liste ici les quelques logiciels qui ont bonne réputation.
+Vous trouverez pléthore de logiciels dédiés à la création. Je liste ici ceux qui ont bonne réputation.
 
-Piskel : Une application en ligne gratuite, parfaire pour débuter
+[Piskel](https://www.piskelapp.com/) : Une application en ligne gratuite, parfaire pour débuter
  
-Aseprite : Idéal pour faire des sprites et les animer
+[Aseprite](https://www.aseprite.org/) : Idéal pour faire des sprites et les animer
 
-PyxelEdit : Pour la création de vos tilesets ? c'est PyxelEdit
+PyxelEdit : Pour la création de vos tilesets, c'est celui qu'
 
 Tiled : l'application réputée pour la création de tilemapping
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDI4MTQ3MzUsLTY4NDQ0MzU5NiwxOT
-k5NDQyOTc3LDI1Nzg3MDUzLC0xNDk3ODMwMTgwXX0=
+eyJoaXN0b3J5IjpbLTExMjAwNjMyMCwtMTk0MjgxNDczNSwtNj
+g0NDQzNTk2LDE5OTk0NDI5NzcsMjU3ODcwNTMsLTE0OTc4MzAx
+ODBdfQ==
 -->
