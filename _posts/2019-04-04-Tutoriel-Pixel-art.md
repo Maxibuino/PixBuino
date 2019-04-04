@@ -11,7 +11,8 @@ Et voici une petite liste de tutoriel à lire et relire sans modération
 
 **Des explications pour donner du volume à vos fond** : <a class="nav-link highlight" target="blank" href="https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/resource-pack-discussion/1254358-pixel-art-texturing-explained">Texturer votre background</a>
 
+*L'illustration de l'article est une capture d'écran du jeu Golden Sun sorti en 2001 sur Game Boy Advance*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NDg3NzcwNiw5ODc4NDU2NjYsMTQxNz
-A3NTAwN119
+eyJoaXN0b3J5IjpbODc5NTA5MTcwLDE3NzQ4Nzc3MDYsOTg3OD
+Q1NjY2LDE0MTcwNzUwMDddfQ==
 -->
