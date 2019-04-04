@@ -13,10 +13,10 @@ Après une pause de quelques années je me suis consacré pendant ce temps à la
 
 Je suis aussi collectionneur et cette maladie m'a amenée à créer un cabinets de curiosités : Instruments de médecine (XIXe), fossiles, insectes, objets étranges/insolites, livres anciens...
 
-Je suis arrivé par pur hasard sur le projet de la Gamebuino lors de son lancement sur Kickstarter. J'ai de suite été conquis. Une console, pour une fois, 100% pensée et fabriquée en France. Un concept qui m'a de suite inspiré : apprendre à créer des jeux sur une machine basée Arduino. Ce n'est pas 
+Je suis arrivé par pur hasard sur le projet de la Gamebuino lors de son lancement sur Kickstarter. J'ai de suite été conquis. Une console, pour une fois, 100% pensée et fabriquée en France avec un concept qui m'a de suite inspiré : apprendre à créer des jeux sur une machine basée Arduino. Ce n'est pas la première fois qu'une console est née du croisement du monde des makers et des jeux vidéos indé, mais celle-ci 
 
 Très enthousiaste autour de cette console et dans l'apprentissage du code pour créer et contribuer à cette communauté :-)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNTUwNjA5Myw2MDY5Mjk2OTcsLTE0Nj
-k0NDg3MjgsMTM0NzcwNzYxM119
+eyJoaXN0b3J5IjpbMTAzMDU5ODg2LDYwNjkyOTY5NywtMTQ2OT
+Q0ODcyOCwxMzQ3NzA3NjEzXX0=
 -->
