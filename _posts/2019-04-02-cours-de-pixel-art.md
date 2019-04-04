@@ -12,30 +12,21 @@ Entièrement en français, c'est une série de 10 chapitres. Programmer un jeu i
 
 Les auteurs sont Antoine Gersant pour les chapitres de 1 à 9 et Thomas Chassin pour le 10. Ces cours ont été publiés sur le site  [lesforges.org](http://www.lesforges.org/article/ld25?scroll_to=article). Ce blog est d'ailleurs une mine de savoir, dommage qu'il ne soit plus actualisé depuis 2015.
 
-
-[1. Préface](http://www.lesforges.org/article/cours-pixel-art-preface?scroll_to=article)
-
-[2. Les bons outils](http://www.lesforges.org/article/cours-pixel-art-logiciels?scroll_to=article)
-
-[3. Tracer des lignes](http://www.lesforges.org/article/cours-pixel-art-lignes?scroll_to=article)
-
-[4. Perspectives](http://www.lesforges.org/article/cours-pixel-art-perspective?scroll_to=article)
-
+- [1. Préface](http://www.lesforges.org/article/cours-pixel-art-preface?scroll_to=article)
+- [2. Les bons outils](http://www.lesforges.org/article/cours-pixel-art-logiciels?scroll_to=article)
+- [3. Tracer des lignes](http://www.lesforges.org/article/cours-pixel-art-lignes?scroll_to=article)
+- [4. Perspectives](http://www.lesforges.org/article/cours-pixel-art-perspective?scroll_to=article)
 [5. Ombre et lumière](http://www.lesforges.org/article/cours-pixel-art-shading?scroll_to=article)
-
 [6. Couleurs et palettes](http://www.lesforges.org/article/couleurs?scroll_to=article)
-
 [7. Anti-aliasing](http://www.lesforges.org/article/cours-pixel-art-anti-aliasing?scroll_to=article)
-
 [8. Textures et dithering](http://www.lesforges.org/article/cours-pixel-art-textures?scroll_to=article)
-
 [9. Un monde de tiles](http://www.lesforges.org/article/cours-pixel-art-tiles?scroll_to=article)
-
 [10. Animations](http://www.lesforges.org/article/pixel-art-chapitre-10-animation?scroll_to=article)
+
 
 _(l'en-tête provient du_ [_cours 2_](http://www.lesforges.org/article/cours-pixel-art-logiciels?scroll_to=article)_))_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODI5NjIzNzQsLTIwNjU2ODIzNDIsMT
-UwNTY2ODc5LDg0ODMyMjI0MiwtODAzNjY5MDM2LC0yMDYyOTE2
-NTgyLDExMjI4NTY0ODUsMTAyNjc5NzEyNl19
+eyJoaXN0b3J5IjpbLTIyOTExNzc1NCwtMjA2NTY4MjM0MiwxNT
+A1NjY4NzksODQ4MzIyMjQyLC04MDM2NjkwMzYsLTIwNjI5MTY1
+ODIsMTEyMjg1NjQ4NSwxMDI2Nzk3MTI2XX0=
 -->
