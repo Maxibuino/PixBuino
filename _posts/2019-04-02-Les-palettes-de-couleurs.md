@@ -19,9 +19,9 @@ Zughy 32
 Endesga 32
 
 
-*L'illustration est une palette de couleurs réalisée par DawnBringer : 
+*L'illustration est une palette de couleurs réalisée par DawnBringer : DB's 32 color palette
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ3MjA3NDcyLDE1NzE5MzI1NzcsLTE1MT
-g3ODY4MjUsLTg2NzU3MzM5NywxMTA2OTc5MDc5LDkwMzU1OTg2
-MiwtMzk0NDE0NjUyLDE5OTEwMDU1MTZdfQ==
+eyJoaXN0b3J5IjpbMjAxODgyMDExMywxNTcxOTMyNTc3LC0xNT
+E4Nzg2ODI1LC04Njc1NzMzOTcsMTEwNjk3OTA3OSw5MDM1NTk4
+NjIsLTM5NDQxNDY1MiwxOTkxMDA1NTE2XX0=
 -->
