@@ -11,13 +11,13 @@ La communauté d'artistes qui partage ou vende leur créations est suffisamment 
 
 
 
-[itch.io](https://itch.io/) est un site pour les développeurs indépendants de jeux vidéos. Vous y trouverez de nombreux 
+**[itch.io](https://itch.io/)** est un site pour les développeurs indépendants de jeux vidéos. Vous y trouverez de nombreux 
 
-[Open Game Art](https://opengameart.org/art-search-advanced?keys=&field_art_type_tid%5B%5D=9&sort_by=count&sort_order=DESC) est une plateforme où sont partagés des éléments graphiques pour la création de jeux vidéos. La plupart des ressources sont gratuites, il suffit de citer l'auteur. C'est une bonne base pour cherhcer 
+**[Open Game Art](https://opengameart.org/art-search-advanced?keys=&field_art_type_tid%5B%5D=9&sort_by=count&sort_order=DESC)** est une plateforme où sont partagés des éléments graphiques pour la création de jeux vidéos. La plupart des ressources sont gratuites, il suffit de citer l'auteur. C'est une bonne base pour cherhcer 
 
 *Illustration de l'article tirée d'une création de [Lanea Zimmerman](https://opengameart.org/users/sharm) : [Tiny 16: Basic](https://opengameart.org/content/tiny-16-basic)*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUzMzIyNzcwLDIwMjAyNDM5MzYsLTY1NT
-Q0MTkyMCwxNzQ2MzI4NDExLDE3NjY2MDQzNjgsMjE0NTQ2MzUz
-MV19
+eyJoaXN0b3J5IjpbLTE5MDk2MjkxMDIsMjAyMDI0MzkzNiwtNj
+U1NDQxOTIwLDE3NDYzMjg0MTEsMTc2NjYwNDM2OCwyMTQ1NDYz
+NTMxXX0=
 -->
