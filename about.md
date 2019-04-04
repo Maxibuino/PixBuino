@@ -11,10 +11,10 @@ J'ai grandi avec les jeux vidéos et j'y ai joués une majeure partie de ma vie.
 
 Après une pause de quelques années je me suis consacré pendant ce temps à la photo, discipline dont je suis très accroc. D'ailleurs j'ai un petit portfolio [ici](https://maximej.photodeck.com/). Mes deux domaines sont la photo de nature et la macrophotographie.
 
-Je suis aussi collectionneur, cette maladie m'a amené à créer un cabinets de curiosités.
+Je suis aussi collectionneur et cette maladie m'a amenée à créer un cabinets de curiosités : Instruments de médecine (XIXe), fossiles, insectes, objets étranges, insolites, livres anciens...
 
 Très enthousiaste autour de cette console et dans l'apprentissage du code pour créer et contribuer à cette communauté :-)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ3MzM4MDg5LC0xNDY5NDQ4NzI4LDEzND
+eyJoaXN0b3J5IjpbNjA2OTI5Njk3LC0xNDY5NDQ4NzI4LDEzND
 c3MDc2MTNdfQ==
 -->
