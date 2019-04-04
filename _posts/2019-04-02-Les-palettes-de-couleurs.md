@@ -19,9 +19,9 @@ Zughy 32
 Endesga 32
 
 
-*L'illustration est une palette de couleurs réalisée par DawnBringer : DB's 32 color palette
+*L'illustration est une palette de couleurs réalisée par [DawnBringer](http://pixeljoint.com/p/23821.htm) : [DB's 32 color palette](http://pixeljoint.com/forum/forum_posts.asp?TID=16247)*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxODgyMDExMywxNTcxOTMyNTc3LC0xNT
-E4Nzg2ODI1LC04Njc1NzMzOTcsMTEwNjk3OTA3OSw5MDM1NTk4
-NjIsLTM5NDQxNDY1MiwxOTkxMDA1NTE2XX0=
+eyJoaXN0b3J5IjpbLTEyMjYwODg2MDksMTU3MTkzMjU3NywtMT
+UxODc4NjgyNSwtODY3NTczMzk3LDExMDY5NzkwNzksOTAzNTU5
+ODYyLC0zOTQ0MTQ2NTIsMTk5MTAwNTUxNl19
 -->
