@@ -6,7 +6,7 @@ categories: [ Jekyll, tutorial]
 image: assets/images/20190402_cours_pixelart.jpg
 featured: true
 ---
-
+Le blog lesforges.org a partagé il y a quelques
 Voilà des cours qui présentent le pixel art
 
 Entièrement en français, c'est une série de 10 chapitres. Programmer un jeu implique, en plus du code, quelques connaissances artistiques pour dessiner et concevoir l'environnement graphique de nos créations. Ces pages abordent très bien le sujet.
@@ -36,6 +36,7 @@ Les auteurs sont Antoine Gersant pour les chapitres de 1 à 9 et Thomas Chassin 
 
 _(l'en-tête provient du_ [_cours 2_](http://www.lesforges.org/article/cours-pixel-art-logiciels?scroll_to=article)_))_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ4MzIyMjQyLC04MDM2NjkwMzYsLTIwNj
-I5MTY1ODIsMTEyMjg1NjQ4NSwxMDI2Nzk3MTI2XX0=
+eyJoaXN0b3J5IjpbMTA0MTU0MjIwOCw4NDgzMjIyNDIsLTgwMz
+Y2OTAzNiwtMjA2MjkxNjU4MiwxMTIyODU2NDg1LDEwMjY3OTcx
+MjZdfQ==
 -->
