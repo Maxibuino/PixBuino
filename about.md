@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: À propos
 ---
 
 Pour la faire courte : Je suis devenu fan de la Gamebuino META depuis son lancement sur Kickstarter. Une vraie console de jeu où le Pixel art prend tout son sens. À force de chercher sur le web des outils et des conseils pour débuter, je me suis décider à partager tous les liens que j’ai trouvés.
@@ -18,7 +18,7 @@ Je suis arrivé par pur hasard sur le projet de la Gamebuino lors de son lanceme
 
 La communauté est active (si si, allez voir sur Discord), enthousiaste et… une bonne partie est francophone.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDE1NjIxODksLTg5Mjc4NDg1OSwtMT
+eyJoaXN0b3J5IjpbLTE4NDA4NTUyOTEsLTg5Mjc4NDg1OSwtMT
 kzNTE2NDM0MSw2MDY5Mjk2OTcsLTE0Njk0NDg3MjgsMTM0Nzcw
 NzYxM119
 -->
