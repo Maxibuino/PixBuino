@@ -5,7 +5,7 @@ author: max
 categories: [ Jekyll, video ]
 image: assets/images/space-invaders.jpg
 ---
-Tout histoire à un commencement et ces deux vidéo nous en apprennent plus sur le fonctionnement des graphismes "à l'ancienne"
+Toute histoire à un commencement et ces deux vidéos nous en apprennent plus sur le fonctionnement des graphismes "à l'ancienne"
 
 #### Comment les graphismes "à l'ancienne" fonctionnaient Partie 1 - Commodore et Nintendo
 <p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/Tfh0ytz8S0k" frameborder="0" allowfullscreen></iframe></p>
@@ -14,6 +14,7 @@ Tout histoire à un commencement et ces deux vidéo nous en apprennent plus sur 
 <p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/_rsycfDliZU" frameborder="0" allowfullscreen></iframe></p>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg0NDA1MjgyLC04NjU5NDAzMTIsMTk0ND
-M0MDU2MSwtNDYxMjE0Nzk1LDQzNTM1NzE0M119
+eyJoaXN0b3J5IjpbLTQzNjY3MTQ2Niw0ODQ0MDUyODIsLTg2NT
+k0MDMxMiwxOTQ0MzQwNTYxLC00NjEyMTQ3OTUsNDM1MzU3MTQz
+XX0=
 -->
