@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Les Palettes de couleurs"
+title:  "Les palettes de couleurs"
 author: max
 categories: [ Jekyll, lien]
 image: assets/images/20190402-palette.png
@@ -21,7 +21,8 @@ Endesga 32
 
 *L'illustration est une palette de couleurs réalisée par [DawnBringer](http://pixeljoint.com/p/23821.htm) : [DB's 32 color palette](http://pixeljoint.com/forum/forum_posts.asp?TID=16247)*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjYwODg2MDksMTU3MTkzMjU3NywtMT
-UxODc4NjgyNSwtODY3NTczMzk3LDExMDY5NzkwNzksOTAzNTU5
-ODYyLC0zOTQ0MTQ2NTIsMTk5MTAwNTUxNl19
+eyJoaXN0b3J5IjpbNjc2NzAwOTkxLC0xMjI2MDg4NjA5LDE1Nz
+E5MzI1NzcsLTE1MTg3ODY4MjUsLTg2NzU3MzM5NywxMTA2OTc5
+MDc5LDkwMzU1OTg2MiwtMzk0NDE0NjUyLDE5OTEwMDU1MTZdfQ
+==
 -->
