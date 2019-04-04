@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: À propos
 ---
 
@@ -18,7 +18,7 @@ Je suis arrivé par pur hasard sur le projet de la Gamebuino lors de son lanceme
 
 La communauté est active (si si, allez voir sur Discord), enthousiaste et… une bonne partie est francophone.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTU3OTg0MjcsLTg5Mjc4NDg1OSwtMT
-kzNTE2NDM0MSw2MDY5Mjk2OTcsLTE0Njk0NDg3MjgsMTM0Nzcw
-NzYxM119
+eyJoaXN0b3J5IjpbMTA5MjI3Mjg1MiwtODkyNzg0ODU5LC0xOT
+M1MTY0MzQxLDYwNjkyOTY5NywtMTQ2OTQ0ODcyOCwxMzQ3NzA3
+NjEzXX0=
 -->
