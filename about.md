@@ -7,6 +7,7 @@ Pour la faire courte : Je suis devenu fan de la Gamebuino META depuis son lancem
 ---
 
 **La Version longue**
+
 J'ai grandi avec les jeux vidéos et j'y ai joués une majeure partie de ma vie. Grand fan de la maison Nintendo avec Mario, Zelda, Metroïd, etc. J'ai un faible pour la série des Metal Slug.
 
 Après une pause de quelques années je me suis consacré pendant ce temps à la photo, discipline dont je suis très accroc. D'ailleurs j'ai un petit portfolio [ici](https://maximej.photodeck.com/). Mes deux domaines sont la photo de nature et la macrophotographie.
@@ -17,6 +18,6 @@ Je suis arrivé par pur hasard sur le projet de la Gamebuino lors de son lanceme
 
 La communauté est active (si si, allez voir sur Discord), enthousiaste et... une bonne partie est francophone. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEyOTIzMDM3LDYwNjkyOTY5NywtMTQ2OT
-Q0ODcyOCwxMzQ3NzA3NjEzXX0=
+eyJoaXN0b3J5IjpbLTE5MzUxNjQzNDEsNjA2OTI5Njk3LC0xND
+Y5NDQ4NzI4LDEzNDc3MDc2MTNdfQ==
 -->
