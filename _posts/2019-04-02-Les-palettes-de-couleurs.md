@@ -18,8 +18,10 @@ DawnBringer 32
 Zughy 32
 Endesga 32
 
+
+*L'illustration est une palette de couleurs réalisée par DawnBringer : 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MTkzMjU3NywtMTUxODc4NjgyNSwtOD
-Y3NTczMzk3LDExMDY5NzkwNzksOTAzNTU5ODYyLC0zOTQ0MTQ2
-NTIsMTk5MTAwNTUxNl19
+eyJoaXN0b3J5IjpbMzQ3MjA3NDcyLDE1NzE5MzI1NzcsLTE1MT
+g3ODY4MjUsLTg2NzU3MzM5NywxMTA2OTc5MDc5LDkwMzU1OTg2
+MiwtMzk0NDE0NjUyLDE5OTEwMDU1MTZdfQ==
 -->
