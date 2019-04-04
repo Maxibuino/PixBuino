@@ -6,12 +6,13 @@ categories: [ Jekyll, ressources ]
 image: assets/images/20190404-tilesets.jpg
 ---
 
-<a class="nav-link highlight" target="blank" href="https://itch.io/">itch.io</a>
+[itch.io](https://itch.io/)
 
-<a class="nav-link highlight" target="blank" href="https://opengameart.org/art-search-advanced?keys=&field_art_type_tid%5B%5D=9&sort_by=count&sort_order=DESC">Open Game Art</a>
+[Open Game Art](https://opengameart.org/art-search-advanced?keys=&field_art_type_tid%5B%5D=9&sort_by=count&sort_order=DESC)
 
 *Illustration de l'article tirée d'une création de [Lanea Zimmerman](https://opengameart.org/users/sharm) : [Tiny 16: Basic](https://opengameart.org/content/tiny-16-basic)*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMDI0MzkzNiwtNjU1NDQxOTIwLDE3ND
-YzMjg0MTEsMTc2NjYwNDM2OCwyMTQ1NDYzNTMxXX0=
+eyJoaXN0b3J5IjpbMTY2MDg1MDkzNCwyMDIwMjQzOTM2LC02NT
+U0NDE5MjAsMTc0NjMyODQxMSwxNzY2NjA0MzY4LDIxNDU0NjM1
+MzFdfQ==
 -->
