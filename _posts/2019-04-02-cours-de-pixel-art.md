@@ -10,7 +10,7 @@ Le blog lesforges.org a partagé il y a quelques années des cours pour aborder 
 
 Entièrement en français, c'est une série de 10 chapitres. Programmer un jeu implique, en plus du code, quelques connaissances artistiques pour dessiner et concevoir l'environnement graphique de nos créations. Ces pages abordent très bien le sujet.
 
-Les auteurs sont Antoine Gersant pour les chapitres de 1 à 9 et Thomas Chassin pour le 10. Ces cours ont été publiés sur le site  [lesforges.org](http://www.lesforges.org/article/ld25?scroll_to=article). ce blog est d'ailleurs une mine de savoir, dommage qu'il ne soit plus actualisé depuis 2015.
+Les auteurs sont Antoine Gersant pour les chapitres de 1 à 9 et Thomas Chassin pour le 10. Ces cours ont été publiés sur le site  [lesforges.org](http://www.lesforges.org/article/ld25?scroll_to=article). Ce blog est d'ailleurs une mine de savoir, dommage qu'il ne soit plus actualisé depuis 2015.
 
 
 [1. Préface](http://www.lesforges.org/article/cours-pixel-art-preface?scroll_to=article)
@@ -35,7 +35,7 @@ Les auteurs sont Antoine Gersant pour les chapitres de 1 à 9 et Thomas Chassin 
 
 _(l'en-tête provient du_ [_cours 2_](http://www.lesforges.org/article/cours-pixel-art-logiciels?scroll_to=article)_))_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjU2ODIzNDIsMTUwNTY2ODc5LDg0OD
-MyMjI0MiwtODAzNjY5MDM2LC0yMDYyOTE2NTgyLDExMjI4NTY0
-ODUsMTAyNjc5NzEyNl19
+eyJoaXN0b3J5IjpbLTE2ODI5NjIzNzQsLTIwNjU2ODIzNDIsMT
+UwNTY2ODc5LDg0ODMyMjI0MiwtODAzNjY5MDM2LC0yMDYyOTE2
+NTgyLDExMjI4NTY0ODUsMTAyNjc5NzEyNl19
 -->
