@@ -5,7 +5,7 @@ author: max
 categories: [ Jekyll, tutoriel ]
 image: assets/images/Golden_Sun.png
 ---
-Et voici une petite liste de tutoriel à lire et relire sans modération
+Voici une petite liste de tutoriel à lire et relire sans modération.
 
 **Quelques conseils sur les erreurs que les débutants font souvent** : <a class="nav-link highlight" target="blank" href="http://androidarts.com/pixtut/pixelart.htm">Les erreurs de débutant</a>
 
@@ -13,6 +13,6 @@ Et voici une petite liste de tutoriel à lire et relire sans modération
 
 *L'illustration de l'article est une capture d'écran du jeu Golden Sun sorti en 2001 sur Game Boy Advance*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc5NTA5MTcwLDE3NzQ4Nzc3MDYsOTg3OD
+eyJoaXN0b3J5IjpbMjc0MzgyMzQ5LDE3NzQ4Nzc3MDYsOTg3OD
 Q1NjY2LDE0MTcwNzUwMDddfQ==
 -->
