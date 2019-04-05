@@ -10,11 +10,11 @@ Vous trouverez pléthore de logiciels dédiés à la création. Je liste ici ceu
 
 - [Piskel](https://www.piskelapp.com/) : Une application en ligne gratuite, parfaire pour débuter
 - [Aseprite](https://www.aseprite.org/) : Idéal pour faire des sprites et les animer
-- [PyxelEdit](https://pyxeledit.com/) : Pour la création de vos tilesets, c'est celui qu'il vous faut !
-- [Tiled](https://www.mapeditor.org/) : l'application réputée pour la création de tilemapping
+- [PyxelEdit](https://pyxeledit.com/) : Pour faire du tilemapping, c'est celui qu'il vous faut !
+- [Tiled](https://www.mapeditor.org/) : l'application réputée pour utiliser vos tilesets et créer des tilemaps. Notez que vous ne pouvez pas créer de tile, juste les utiliser.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjM5MDY5OTIsLTE5NDI4MTQ3MzUsLT
-Y4NDQ0MzU5NiwxOTk5NDQyOTc3LDI1Nzg3MDUzLC0xNDk3ODMw
-MTgwXX0=
+eyJoaXN0b3J5IjpbNzk5MjA5NTM4LC0xNjYzOTA2OTkyLC0xOT
+QyODE0NzM1LC02ODQ0NDM1OTYsMTk5OTQ0Mjk3NywyNTc4NzA1
+MywtMTQ5NzgzMDE4MF19
 -->
