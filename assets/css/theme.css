@@ -396,8 +396,8 @@ span.post-name a,span.post-read-more a:hover {
 }
 .footer a {color:inherit;}
 .footer a:hover {color:#fff; text-decoration:none;}
-.footer-widget {margin-bottom: 0rem;    margin-top: 0rem;font-size:15px;}
-.footer-widget h5.title {font-size:18px; text-transform:uppercase;letter-spacing:1px;color:#fff;margin-bottom: -0,5rem;}
+.footer-widget {margin-bottom: 1rem;    margin-top: 1rem;font-size:15px;}
+.footer-widget h5.title {font-size:16px; text-transform:uppercase;letter-spacing:1px;color:#fff;margin-bottom: 2px;}
 .footer-widget ul {list-style:none;padding-left:0;}
 .footer-widget ul li {margin:12px 0;}
 .footer-widget .recent-posts img {float:left;margin-right:10px;}
